@@ -1,0 +1,11 @@
+@import url(grids-system.css);
+@font-face {
+    font-family: my-font;
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+*,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: my-font;
+}
